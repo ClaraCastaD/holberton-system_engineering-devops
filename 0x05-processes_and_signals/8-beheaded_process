@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#  Bash script that kills the process 7-highlander.
+
+#!/usr/bin/env bash
+#  Bash script that stops 4-to_infinity_and_beyond process.
+
+kill -9 "$(pgrep -f 7-highlander)"
